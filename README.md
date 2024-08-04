@@ -1,4 +1,4 @@
-# Boas vindas ao meu perfil 💙💙
+# Seja bem-vindo ao meu perfil 🦋✨
 Meu nome é Beatriz Medeiros Rocha
 
 Estou estudando na Alura
@@ -9,3 +9,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 Você pode entrar em contato comigo 📫
 00001126899677sp@aluno.educacao.sp.gov.br
+
+
+   
